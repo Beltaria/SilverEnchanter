@@ -1,0 +1,7 @@
+name: SilverEnchanter
+version: '${project.version}'
+main: me.bluedyaishela.silverenchanter.SilverEnchanter
+commands:
+  silverenchanter:
+    description: Vous utilisez SilverEnchanter en version ${project.version}
+    permission: silverenchanter.use
